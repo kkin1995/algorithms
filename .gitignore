@@ -3,3 +3,7 @@
 
 # Environments
 venv/
+
+# Videos
+*.mp4
+*.gif
