@@ -1,0 +1,9 @@
+# Bubble Sort Animation
+# Array Start
+LOW: 0
+# Array End
+HIGH: 100
+# Array Size
+SIZE: 100
+# Set Save to False to show animation on screen
+SAVE: False
